@@ -1,0 +1,6 @@
+io\jenkins\plugins\sample\CheckpointBuilder$DescriptorImpl.class
+META-INF\annotations\org.jenkinsci.Symbol
+io\jenkins\plugins\sample\CheckpointBuilder.stapler
+io\jenkins\plugins\sample\CheckpointAction.class
+META-INF\annotations\hudson.Extension
+io\jenkins\plugins\sample\CheckpointBuilder.class

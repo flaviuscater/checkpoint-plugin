@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: checkpoint
+Long-Name: Checkpoint Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-08/16/2018 08:14-studentTIM)
+Hudson-Version: 2.7.3
+Jenkins-Version: 2.7.3
+Plugin-Dependencies: structs:1.7
+Plugin-Developers: 
+Libraries: C:\Users\studentTIM\IdeaProjects\checkpoint-plugin\src\main
+ \resources,C:\Users\studentTIM\IdeaProjects\checkpoint-plugin\target\
+ classes
+Resource-Path: C:\Users\studentTIM\IdeaProjects\checkpoint-plugin\src\
+ main\webapp
+

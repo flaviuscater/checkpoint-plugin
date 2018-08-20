@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='io.jenkins.plugins' artifactId='checkpoint' version='1.0-SNAPSHOT'><l:dependency name='Checkpoint Plugin' groupId='io.jenkins.plugins' artifactId='checkpoint' version='1.0-SNAPSHOT' url=''><l:description>Checkpoint</l:description><l:license name='MIT License' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>
